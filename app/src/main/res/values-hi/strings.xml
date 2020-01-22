@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="thank_you">धन्यवाद</string>
+    <string name="toppings">सामग्री</string>
+    <string name="quantity">मात्रा</string>
+    <string name="order">आदेश</string>
+    <string name="name">नाम</string>
+    <string name="msg4">का आनंद लें</string>
+    <string name="msg3">चॉकलेट की कीमत: ₹2</string>
+    <string name="msg2">आइसक्रीम की कीमत: ₹3</string>
+    <string name="msg1">कॉफी मूल्य: ₹ 5/</string>
+    <string name="icecream">आइसक्रीम</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="order_summary_name">नाम: <xliff:g example="एमी " id="नाम">%S</xliff:g></string>
+    <string name="inc">+</string>
+    <string name="dec">-</string>
+    <string name="q">1</string>
+    <string name="order_summary_email_subject">Just Java order for <xliff:g id="नाम" example="एमी">%S</xliff:g></string>
+    <string name="order_summary_ice_cream">आइसक्रीम जोड़ें? :<xliff:g id="addIcecream" example="सच" or="गलत">%b</xliff:g></string>
+    <string name="order_summary_price">कुल: <xliff:g id="price" example="$10">%S</xliff:g></string>
+    <string name="order_summary_quantity">मात्रा: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_chocolate">चॉकलेट जोड़ें? :<xliff:g id="addChocolate" example="true" or="false">%b</xliff:g></string>
+</resources>
